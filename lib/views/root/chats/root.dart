@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:whatsapp/views/root/chats/text.dart';
 
 class Chats extends StatelessWidget {
   const Chats({Key? key}) : super(key: key);
@@ -20,8 +21,15 @@ class Chats extends StatelessWidget {
               Text('Lorem  sed dolore magna aliqua.'),
             ],
           ),
-          trailing: Text('12:30'),
-        
+          trailing: const Text('12:30'),
+          onTap: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => Texts(),
+              ),
+            );
+          },
         );
       },
     );
