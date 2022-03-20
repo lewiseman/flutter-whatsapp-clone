@@ -6,19 +6,43 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-# whatsapp
 
-A new Flutter project.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/lewiseman/flutter-whatsapp-clone">
+    <img src="assets/readme/readmelogo.png" alt="Logo" width="80" height="80">
+  </a>
 
-## Getting Started
+  <h2 align="center">whatsapp clone</h2>
 
-This project is a starting point for a Flutter application.
+  <p align="center">
+    A flutter clone project <br>challenge was to create it with the shortest time possible <br> 1 hr
+    <br />
+    <a href="https://github.com/lewiseman/flutter-whatsapp-clone"><strong>Explore the code »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/lewiseman/flutter-whatsapp-clone">View Demo</a>
+    ·
+    <a href="https://github.com/lewiseman/flutter-whatsapp-clone/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/lewiseman/flutter-whatsapp-clone/issues">Request Feature</a>
+  </p>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+[![Product Name Screen Shot][product-screenshot]]()
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/lewiseman/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/lewiseman/flutter-whatsapp-clone/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lewiseman/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/lewiseman/flutter-whatsapp-clone/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/lewiseman/flutter-whatsapp-clone/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/lewiseman/flutter-whatsapp-clone/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/lewiseman/flutter-whatsapp-clone/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/lewis-m-547812213
+[product-screenshot]: assets/readme/sh.png
