@@ -30,7 +30,7 @@
   </p>
 </div>
 
-[![Product Name Screen Shot][product-screenshot]]()
+[![Product Name Screen Shot][product-screenshot]](#)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/lewiseman/flutter-whatsapp-clone.svg?style=for-the-badge
@@ -41,7 +41,7 @@
 [stars-url]: https://github.com/lewiseman/flutter-whatsapp-clone/stargazers
 [issues-shield]: https://img.shields.io/github/issues/lewiseman/flutter-whatsapp-clone.svg?style=for-the-badge
 [issues-url]: https://github.com/lewiseman/flutter-whatsapp-clone/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/flutter-whatsapp-clone.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/lewiseman/flutter-whatsapp-clone.svg?style=for-the-badge
 [license-url]: https://github.com/lewiseman/flutter-whatsapp-clone/blob/master/LINCES.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lewis-m-547812213
