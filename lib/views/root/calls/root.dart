@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp/views/root/chats/text.dart';
 
-class Chats extends StatelessWidget {
-  const Chats({Key? key}) : super(key: key);
+class Calls extends StatelessWidget {
+  const Calls({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -16,24 +15,19 @@ class Chats extends StatelessWidget {
           ),
           title: const Text('John Doe'),
           subtitle: Row(
-            children: [
+            children: const [
               Icon(
-                Icons.check_rounded,
+                Icons.call_missed_outgoing_sharp,
+                color: Colors.red,
                 size: 18,
-                color: Colors.grey,
               ),
-              Text(' Lorem  sed dolore magna aliqua.'),
+              Text(' Yesterday, 3:20 PM'),
             ],
           ),
-          trailing: const Text('12:30'),
-          onTap: () {
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                builder: (context) => Texts(),
-              ),
-            );
-          },
+          trailing: const Icon(
+            Icons.call,
+            color: Colors.green,
+          ),
         );
       },
     );
