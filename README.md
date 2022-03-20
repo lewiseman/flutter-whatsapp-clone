@@ -33,16 +33,16 @@
 [![Product Name Screen Shot][product-screenshot]]()
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/lewiseman/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/lewiseman/flutter-whatsapp-clone.svg?style=for-the-badge
 [contributors-url]: https://github.com/lewiseman/flutter-whatsapp-clone/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lewiseman/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/lewiseman/flutter-whatsapp-clone.svg?style=for-the-badge
 [forks-url]: https://github.com/lewiseman/flutter-whatsapp-clone/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/lewiseman/flutter-whatsapp-clone.svg?style=for-the-badge
 [stars-url]: https://github.com/lewiseman/flutter-whatsapp-clone/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/lewiseman/flutter-whatsapp-clone/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/lewiseman/flutter-whatsapp-clone/LICENSE.txt
+[license-url]: https://github.com/lewiseman/flutter-whatsapp-clone/blob/master/LINCES.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lewis-m-547812213
 [product-screenshot]: assets/readme/sh.png
